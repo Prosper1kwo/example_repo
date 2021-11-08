@@ -1,1 +1,1 @@
-# my_hangman
+# My python project for my CSCI class
